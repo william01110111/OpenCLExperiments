@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1475528304 source:/home/william/c++/OpenCLTest/main.cpp
+	"OpenCLHost.h"
+	<stdlib.h>
+	<OpenCL/opencl.h>
+	<CL/cl.h>
+
+1475292506 source:/home/william/c++/OpenCLTest/OpenCLHost.cpp
+	"OpenCLHost.h"
+
+1475266704 /home/william/c++/OpenCLTest/OpenCLHost.h
+	<iostream>
+	<fstream>
+	<algorithm>
+	<CL/cl.hpp>
+
